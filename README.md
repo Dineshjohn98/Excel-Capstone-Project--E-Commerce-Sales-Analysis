@@ -31,7 +31,6 @@
 - Region: North region tops sales with ₹6,47,300.
 - Store Type: Online sales outperform with ₹9,13,898.
 - Payment Type: PayPal records the highest sales at ₹7,56,717.
-- Note: GPT AI-generated payment type graph is static (no slicer interactivity).
 
 ✨ This project demonstrates end-to-end data cleaning, imputation, analysis, and visualization in Excel, providing actionable insights into e-commerce sales trends.
 
